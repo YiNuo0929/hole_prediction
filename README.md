@@ -5,3 +5,9 @@
 確識別坑洞的位置，同時也比較不同模型間的架構和實際運用的差異。
 本專題的期望是未來能夠在汽車上應用這項技術，使汽車能夠根據路面坑洞的情況及
 時調整其避震器和其他相關設定，提高行車的舒適性和安全性。
+
+## 專案流程簡圖
+![process]([https://github.com/your-repo/images/logo.png](https://github.com/YiNuo0929/hole_prediction/blob/main/project_process.png))
+
+## 專案海報
+![poster]([https://github.com/your-repo/images/logo.png](https://github.com/YiNuo0929/hole_prediction/blob/main/project_[poster.png))

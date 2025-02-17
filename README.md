@@ -7,7 +7,7 @@
 時調整其避震器和其他相關設定，提高行車的舒適性和安全性。
 
 ## 專案流程簡圖
-![process]([https://github.com/your-repo/images/logo.png]
+![process](https://github.com/YiNuo0929/hole_prediction/blob/main/project_process.png)
 
 ## 專案海報
-![poster]([https://github.com/your-repo/images/logo.png]
+![poster](https://github.com/YiNuo0929/hole_prediction/blob/main/project_poster.png)
